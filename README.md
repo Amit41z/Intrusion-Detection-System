@@ -4,5 +4,5 @@ An Intrusion Detection System (IDS) maintains network traffic looks for unusual 
 
 # For more details refer (https://www.geeksforgeeks.org/intrusion-detection-system-ids/)
 
-![IDS1 img](/Github/Intrusion-Detection-System/IDS-1.png)
-![IDS2 img](/Github/Intrusion-Detection-System/IDS-2.jpg)
+![IDS1 img](/IDS-1.png)
+![IDS2 img](/IDS-2.jpg)
